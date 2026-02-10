@@ -84,6 +84,8 @@ pdf версия для скачивания внутри.
 + перевод на итерационные улучшения и обновления
 
 
+© 2026 Vladimir Nizov. All rights reserved. See the COPYRIGHT file for details.
+
 <br>
 <br>
 <br>
