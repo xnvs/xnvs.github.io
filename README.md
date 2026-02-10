@@ -16,7 +16,7 @@
 
 #### Направления работы soft skills:
 1. `продуктивность` (давление прокрастинации) : [реализовано](https://xnvs.github.io/java-algorithms-nizov/ax002-productivity-procrastination.html)
-2. `упраление страхами` : [реализовано](https://xnvs.github.io/java-algorithms-nizov/ax003-productivity-overcoming-fears.html)
+2. `управление страхами` : [реализовано](https://xnvs.github.io/java-algorithms-nizov/ax003-productivity-overcoming-fears.html)
 3. `организация разработки` (тактический аджайл) : [реализовано](https://xnvs.github.io/java-arch-microservices-nizov/ax005-tactical-agile.html)
 4. `работа с хаосом` (давление неизвестности) : [реализовано](https://xnvs.github.io/java-arch-microservices-nizov/ax006-managing-chaos.html)
 5. `эффективность` (давление перфекционизма + эффективное планирование) : [реализовано](https://xnvs.github.io/java-arch-microservices-nizov/ax007-efficiency-principles.html)
