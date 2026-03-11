@@ -244,4 +244,4 @@
 
 Давайте будем друзьями!
 
-[Предложение для компаний](https://xnvs.github.io/socialProject.pdf)
+[Предложение для компаний. pdf файл для печати](https://xnvs.github.io/socialProject.pdf)
