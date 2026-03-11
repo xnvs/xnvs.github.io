@@ -1,6 +1,6 @@
 #### быстрые ссылки:
 
-- [Реализуемый социальнй проект.](https://xnvs.github.io/socialProject.html)
+- [Реализуемый социальный проект.](https://xnvs.github.io/socialProject.html)
 - [Алгоритмы на Java. Современный подход.](https://xnvs.github.io/java-algorithms-nizov/) 
 - [Микросервисная архитектура на Java. Современный подход.](https://xnvs.github.io/java-arch-microservices-nizov/)
 
